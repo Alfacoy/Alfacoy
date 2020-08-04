@@ -1,5 +1,6 @@
-# Frontend Developer
-## Brian Durand
+# Brian Durand
+## Frontend Developer
+
 
 ### Redes Sociales
 🌏 [Sitio Web](https://tecknchips.com/) 
